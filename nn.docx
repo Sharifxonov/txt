@@ -34,4 +34,32 @@
 33.?: yes no so’zlarini chiqaradi
 34.<=dan kata yoki teng
 35.>=dan kichik yoki teng
-36.
+36.(i++)qiymatni oshiradi
+37.forni ichidagi i ham ishlatilshi mumkin.
+38.console.log() yordamida brauzer konsoliga yozish mumkin.
+39.JavaScript o'zgaruvchilarni e'lon qilish uchun var, let va const kalit so'zlaridan foydalanadi.
+40.JavaScript qiymatlarni hisoblash uchun arifmetik operatorlardan ( + - * / ) foydalanadi
+41.++ o'sish degani
+42.-- kamaytirish degani
+43./ bo'lim degani
+44.%bo'linish qoldig'i
+45.===teng qiymat va teng turdagi
+46.!== qiymat teng emas
+47.!= teng emas
+48.? uchlik operator
+49.[] a'zo shaxs
+50.() funktsiya chaqiruvi
+51.!bu belgi teng emaslik belgisi
+52.% bo'linish qoldig'ini qaytaradi
+53.forni ichidagi 2 amal i<=n songacha va n sonini ham chiqaradi
+54.forni ichidagi i++ iga 1 qo'shib ketaveradi ngacha
+55.math.floor chap tomonga qarab ketaveradi yaxlitlashda
+56.math.cos burchaklarni saqlab beradi.
+57 math.pow darajaga oladi
+58.math.exp e sonini raqamga ko'paytirib beradi
+59.math.sin bu uchburchakni burchagini sinusini aniqlaydi
+60.br4eak bizga sindirib beradi
+61.() misol bajarishdan oldin shu misollarni bajarishga yordam beradi
+62.else if ifni birnecha marta bajarish uchun
+63.// bu js da kommentga olib quyishga kerak
+64.
