@@ -1,0 +1,37 @@
+              1.+  bir sonni ikkinchi songa bo’lish
+               2.-Bir sonni 2-songa ayirish
+3.+= o’zgaruvchiga qiymat qushadi
+4.Belgilash operatori (=) uzgaruvchini qimatini beradi
+5.(*) raqamlarni ko’paytiradi
+
+6.typeof elementlarni aniqlash
+7.<>kata kichik bbelgilari
+8.**darajaga ko’tarib beradi
+9.for takrorlanish operatori
+10.math java scriptda matematik amallarni bajaradi
+11.math.max raqamlarning kattasini aniqlab beradi
+12.math.min raqamlarning kichigini aniqlab beradi
+13.math.sqrt yig’indini qoldig’ini aniqlaydi
+14.math.round 4.5bo’lsa 5chiqaradi agar 4.2bo’lsa 4chiqaradi
+15.!== ayni bir son emas
+16.NaN noaniq son
+17.math.abc matematik modul
+18.boolen bu faqat true va folse tushunchalarini tushunadi
+19.& bu operatr ikkilik sanoq sistemasida ishlaydi
+20. true ni qiymati 1
+21.false ni qiymati 0
+22.? Bu operator birinchi kelgan operatorni aniqlaydi
+23.~bu operator sonni teskari qilib ayiradi
+24.math.E ning qiymati      2.718281828459045
+25.math.PI ning qiymati      3.141592653589793
+26.let bilan elon qigan uzgaruvchini qayta elon qilib bo’lmaydi
+27.= o’zgaruvchiga qiymat beradi
+28.number bu raqamlardan iborat qiymat
+29.arifmetik operatorlar harf yoki raqamlar bo’yicha arifmetikani bajaradi.
+30.% bu operator raqamlarni foizinichiqarib beradi
+31.> dan kichik
+32.<dan kata
+33.?: yes no so’zlarini chiqaradi
+34.<=dan kata yoki teng
+35.>=dan kichik yoki teng
+36.
